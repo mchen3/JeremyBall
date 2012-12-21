@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="5">
+
+        <body name="4" dynamic="true" numFixtures="0">
+
+        </body>
+
+        <body name="1" dynamic="true" numFixtures="0">
+
+        </body>
+
+        <body name="2" dynamic="true" numFixtures="0">
+
+        </body>
+
+        <body name="5" dynamic="true" numFixtures="0">
+
+        </body>
+
+        <body name="3" dynamic="true" numFixtures="0">
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio></ptm_ratio>
+    </metadata>
+</bodydef>
